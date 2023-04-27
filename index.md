@@ -309,7 +309,7 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 <p>Please be sure to complete these surveys <strong>before</strong> the workshop:</p>
 <p><a href="{{ site.pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
 <p>Please be sure to complete these surveys <strong>after</strong> the workshop:</p>
-<p><a href="#">ARCHER2 course feedback</a></p>
+<p><a href="https://www.archer2.ac.uk/training/feedback/?course=230424-data-carpentry">ARCHER2 course feedback</a></p>
 <p><a href="{{ site.post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
 
 <hr/>
